@@ -17,7 +17,7 @@ I'm currently expanding my skills in Java, web development, and data structures 
 
 ---
 
-## ⚙️ Showcase
+## ✨ Showcase
 These are select projects that demonstrate my Roblox development skills, creativity, and engineering capabilities.
 
 ### Esper Rock Throw
