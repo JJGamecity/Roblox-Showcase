@@ -29,7 +29,6 @@ These are select projects that demonstrate my Roblox development skills, creativ
 
 ### Esper Rock Throw
 - 🔗 [Video Link](https://youtu.be/MqsvDqcbu70) 
-- **Folder**: `esper-rock-throw/`
 - **Features**:
   - Custom rock-throw mechanic with particle effects
   - Dynamic projectile motion and collision handling
