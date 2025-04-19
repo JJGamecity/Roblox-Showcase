@@ -18,7 +18,7 @@ I'm currently expanding my skills in Java, web development, and data structures 
 ---
 ### Featured Achievement: ALPHA Project Stands 2 (1M+ Visits)
 - 🔗 [Game Link](https://www.roblox.com/pt/games/4906760764/ALPHA-Project-Stands-2)
-- **Role**: Intern
+- **Role**: Developer
 - **Contribution**:
   - Adapted and optimized the existing game framework
   - Implemented new mechanics and user-driven features
