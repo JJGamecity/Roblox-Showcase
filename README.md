@@ -16,7 +16,14 @@ I'm a high school junior and passionate developer with 7+ years of experience in
 I'm currently expanding my skills in Java, web development, and data structures & algorithms, preparing for a future in computer science.
 
 ---
+### Featured Achievement: ALPHA Project Stands 2 (1M+ Visits)
+- 🔗 [Game Link](https://www.roblox.com/pt/games/4906760764/ALPHA-Project-Stands-2)
+- **Role**: Intern
+- **Contribution**:
+  - Adapted and optimized the existing game framework
+  - Implemented new mechanics and user-driven features
 
+---
 ## ✨ Showcase
 These are select projects that demonstrate my Roblox development skills, creativity, and engineering capabilities.
 
