@@ -56,16 +56,17 @@ Focused breakdowns of Roblox concepts, designed to teach new developers and rein
   - Implementing math functions and operators
   - Basic math operations in scripts
 
-### Roblox Studio How To Make Twitter Codes #1
+### Roblox Studio How To Make in game Reward Codes #1
 - 🔗 [Video Link](https://youtu.be/Ymai35WnMs0)
 - **Topics**:
-  - Creating and implementing Twitter code systems
+  - Creating and implementing reward code systems.
+  - In-game redeeming system integration
 
-### Roblox Studio How To Make Twitter Codes #2
+### Roblox Studio How To Make in game Reward Codes #2
 - 🔗 [Video Link](https://youtu.be/ou2QTyS6Wqo)
 - **Topics**:
-  - Advanced Twitter code integration
-  - Linking Twitter to in-game mechanics
+  - Advanced reward code handling
+  - Saving players used codes data 
 
 ### Roblox Studio (Using TweenService)
 - 🔗 [Video Link](https://youtu.be/ou2QTyS6Wqo)
